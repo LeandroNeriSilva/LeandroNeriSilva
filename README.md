@@ -1,6 +1,6 @@
 ### Hello, I am Leandro 🤙
 
-#### Data Scientist Jr  
+#### Data Scientist Intern/Jr  
 
 ##### i currently work at Polícia Militar, i'm learning at the moment Big Data & analytical intelligence
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeandroNeriSilva)
