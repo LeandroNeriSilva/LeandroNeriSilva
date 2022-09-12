@@ -5,7 +5,7 @@
 ##### i currently work at Polícia Militar, i'm learning at the moment Big Data & analytical intelligence
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeandroNeriSilva)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-neri-da-silva/)
-
+![LeandroNeriSilva GitHub stats](https://github-readme-stats.vercel.app/api?username=leandronerisilva&show_icons=true&theme=tokyonight)
 ##### Technologies & Tools
 [![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
