@@ -5,6 +5,7 @@
 ##### i currently work at Polícia Militar, i'm learning at the moment Big Data & analytical intelligence
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeandroNeriSilva)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-neri-da-silva/)
+
 ![LeandroNeriSilva GitHub stats](https://github-readme-stats.vercel.app/api?username=leandronerisilva&show_icons=true&theme=tokyonight)
 ##### Technologies & Tools
 [![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
@@ -20,6 +21,3 @@
 [![AMAZONAWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
 [![GOOGLEANALITYCS](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)]()
 [![TABLEAU](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)]()	
-
-
-![LeandroNeriSilva GitHub stats](https://github-readme-stats.vercel.app/api?username=leandronerisilva&show_icons=true&theme=tokyonight)
