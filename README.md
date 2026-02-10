@@ -25,3 +25,9 @@
 [![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)]()
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)]()
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)]()
+
+[![NLP](https://img.shields.io/badge/NLP-1f6feb?style=for-the-badge)]()
+[![LLM](https://img.shields.io/badge/LLM-6f42c1?style=for-the-badge)]()
+[![Prompt_Engineering](https://img.shields.io/badge/Prompt_Engineering-ff7a00?style=for-the-badge)]()
+[![RAG](https://img.shields.io/badge/RAG-0ea5e9?style=for-the-badge)]()
+
