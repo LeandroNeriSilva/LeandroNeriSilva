@@ -2,6 +2,8 @@
 
 **Data Scientist Jr | Big Data & Analytical Intelligence | Cloud & AI Enthusiast**
 
+I work with data analysis, analytical modeling, and the development of data-driven solutions, including machine learning, NLP, and LLMs, with a focus on quantitative thinking and data-driven decision-making.
+
 ---
 
 ### 🌐 Connect with me
