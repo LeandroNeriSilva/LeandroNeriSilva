@@ -28,32 +28,16 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)]()
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)]()
 [![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)]()
-
-##### 🧠 LLM & NLP (Concepts)
 [![NLP](https://img.shields.io/badge/NLP-1f6feb?style=for-the-badge)]()
 [![LLM](https://img.shields.io/badge/LLM-6f42c1?style=for-the-badge)]()
 [![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-ff7a00?style=for-the-badge)]()
 [![RAG](https://img.shields.io/badge/RAG-0ea5e9?style=for-the-badge)]()
-
----
-
-### 🧑‍💻 Core Skills
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)]()
-
----
-
-### 🧠 Data Science & AI
 [![Data Analysis](https://img.shields.io/badge/Data_Analysis-1f6feb?style=for-the-badge)]()
 [![Machine Learning](https://img.shields.io/badge/Machine_Learning-6f42c1?style=for-the-badge)]()
 [![NLP](https://img.shields.io/badge/NLP-0ea5e9?style=for-the-badge)]()
 [![LLM](https://img.shields.io/badge/LLM-9333ea?style=for-the-badge)]()
 [![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-f97316?style=for-the-badge)]()
 [![RAG](https://img.shields.io/badge/RAG-22c55e?style=for-the-badge)]()
-
----
-
-### ☁️ Data & Cloud Foundations
 [![Big Data](https://img.shields.io/badge/Big_Data-111827?style=for-the-badge)]()
 [![Analytics](https://img.shields.io/badge/Analytics-374151?style=for-the-badge)]()
 [![Cloud](https://img.shields.io/badge/Cloud-0284c7?style=for-the-badge)]()
