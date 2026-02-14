@@ -5,13 +5,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=22C55E&size=20&center=true&vCenter=true&width=300&pause=1000&duration=3000&lines=Oi,+Eu+Sou+Leandro+Neri;Cientista+de+Dados+👩‍💻;Seja+Bem+Vindo(a)!+💪" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=22C55E&size=15&center=true&vCenter=true&width=300&pause=1000&duration=3000&lines=Oi,+Eu+Sou+Leandro+Neri;Cientista+de+Dados+👩‍💻;Seja+Bem+Vindo(a)!+💪" />
   
-  <img src="https://readme-typing-svg.herokuapp.com/?color=EF4444&size=20&center=true&vCenter=true&width=300&pause=1000&duration=3000&lines=Hola,+Soy+Leandro+Neri;Científico+de+Datos+👩‍💻;¡Bienvenido!+💪" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=EF4444&size=15&center=true&vCenter=true&width=300&pause=1000&duration=3000&lines=Hola,+Soy+Leandro+Neri;Científico+de+Datos+👩‍💻;¡Bienvenido!+💪" />
   
-  <img src="https://readme-typing-svg.herokuapp.com/?color=3B82F6&size=20&center=true&vCenter=true&width=300&pause=1000&duration=3000&lines=Hi,+I'm+Leandro+Neri;Data+Scientist+👩‍💻;Welcome!+💪" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=3B82F6&size=15&center=true&vCenter=true&width=300&pause=1000&duration=3000&lines=Hi,+I'm+Leandro+Neri;Data+Scientist+👩‍💻;Welcome!+💪" />
 </p>
-## Hello, I am Leandro 👋
 
 **Data Scientist Jr | Big Data & Analytical Intelligence | Cloud & AI Enthusiast**
 
